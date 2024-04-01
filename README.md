@@ -1,13 +1,13 @@
 # CS50-Python
 
 ## Disclaimer
-**Note:** These solutions are intended for educational purposes only. The primary goal is to provide guidance and assistance to individuals working on the CS50-SQL course offered by Harvard University. Use these solutions responsibly, ensuring that you understand the concepts covered in each problem before referring to the solutions.
+**Note:** These solutions are intended for educational purposes only. The primary goal is to provide guidance and assistance to individuals working on the CS50-Python course offered by Harvard University. Use these solutions responsibly, ensuring that you understand the concepts covered in each problem before referring to the solutions.
 
 ## Overview
-This repository contains my solutions to the CS50-SQL course assignments for the year 2023. The solutions are organized by week, covering the material presented in each respective week of the course.
+This repository contains my solutions to the CS50-Python course assignments. The solutions are organized by week, covering the material presented in each respective week of the course.
 
 ## Course Information
-CS50-SQL is a course offered by Harvard University, focusing on the fundamentals of SQL (Structured Query Language) and database management. For more information about the course, including the syllabus, lectures, and additional resources, please visit the [CS50-Python official website](https://cs50.harvard.edu/python/2022/).
+CS50-Python is a course offered by Harvard University, focusing on the fundamentals of Programming in Python. For more information about the course, including the syllabus, lectures, and additional resources, please visit the [CS50-Python official website](https://cs50.harvard.edu/python/2022/).
 
 # Solutions
 - [Week 0 Problem Set](https://cs50.harvard.edu/python/2022/psets/0/) (Topics Covered: Functions, Variables)
