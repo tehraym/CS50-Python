@@ -2,6 +2,7 @@
 
 ## Disclaimer
 **Note:** These solutions are intended for educational purposes only. The primary goal is to provide guidance and assistance to individuals working on the CS50-Python course offered by Harvard University. Use these solutions responsibly, ensuring that you understand the concepts covered in each problem before referring to the solutions.
+**Note:** These solutions are intended for educational purposes only. The primary goal is to provide guidance and assistance to individuals working on the CS50-Python course offered by Harvard University. Use these solutions responsibly, ensuring that you understand the concepts covered in each problem before referring to the solutions.
 
 ## Overview
 This repository contains my solutions to the CS50-Python course assignments. The solutions are organized by week, covering the material presented in each respective week of the course.
